@@ -1,0 +1,526 @@
+[
+  {
+    "id": 1,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "My bill is wrong again."},
+      {"speaker": "agent", "text": "We are checking."},
+      {"speaker": "customer", "text": "Nobody fixes it."},
+      {"speaker": "customer", "text": "Cancel my plan."}
+    ]
+  },
+
+  {
+    "id": 2,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Payment failed."},
+      {"speaker": "agent", "text": "Issue fixed."},
+      {"speaker": "customer", "text": "Thanks."}
+    ]
+  },
+
+  {
+    "id": 3,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Internet is slow."},
+      {"speaker": "agent", "text": "Please wait."},
+      {"speaker": "customer", "text": "Still slow."},
+      {"speaker": "customer", "text": "Cancel service."}
+    ]
+  },
+
+  {
+    "id": 4,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "App crashed."},
+      {"speaker": "agent", "text": "Update app."},
+      {"speaker": "customer", "text": "Working now."}
+    ]
+  },
+
+  {
+    "id": 5,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Wrong charges."},
+      {"speaker": "agent", "text": "Processing."},
+      {"speaker": "customer", "text": "Too slow."},
+      {"speaker": "customer", "text": "Close account."}
+    ]
+  },
+
+  {
+    "id": 6,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Login problem."},
+      {"speaker": "agent", "text": "Reset password."},
+      {"speaker": "customer", "text": "Solved."}
+    ]
+  },
+
+  {
+    "id": 7,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Support is bad."},
+      {"speaker": "agent", "text": "Sorry."},
+      {"speaker": "customer", "text": "No help."},
+      {"speaker": "customer", "text": "Cancel it."}
+    ]
+  },
+
+  {
+    "id": 8,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Refund pending."},
+      {"speaker": "agent", "text": "Refund sent."},
+      {"speaker": "customer", "text": "Received."}
+    ]
+  },
+
+  {
+    "id": 9,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Network drops."},
+      {"speaker": "agent", "text": "We are fixing."},
+      {"speaker": "customer", "text": "Always same."},
+      {"speaker": "customer", "text": "Cancel now."}
+    ]
+  },
+
+  {
+    "id": 10,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "SMS not coming."},
+      {"speaker": "agent", "text": "Fixed."},
+      {"speaker": "customer", "text": "Okay."}
+    ]
+  },
+
+  {
+    "id": 11,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Too expensive."},
+      {"speaker": "agent", "text": "We have offers."},
+      {"speaker": "customer", "text": "Not interested."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 12,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Wrong email."},
+      {"speaker": "agent", "text": "Updated."},
+      {"speaker": "customer", "text": "Thanks."}
+    ]
+  },
+
+  {
+    "id": 13,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Too many ads."},
+      {"speaker": "agent", "text": "Premium removes ads."},
+      {"speaker": "customer", "text": "No."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 14,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Camera not working."},
+      {"speaker": "agent", "text": "Reinstall app."},
+      {"speaker": "customer", "text": "Fixed."}
+    ]
+  },
+
+  {
+    "id": 15,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Service unstable."},
+      {"speaker": "agent", "text": "Maintenance ongoing."},
+      {"speaker": "customer", "text": "Too late."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 16,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Profile error."},
+      {"speaker": "agent", "text": "Corrected."},
+      {"speaker": "customer", "text": "Okay."}
+    ]
+  },
+
+  {
+    "id": 17,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "No response."},
+      {"speaker": "agent", "text": "We are busy."},
+      {"speaker": "customer", "text": "Always busy."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 18,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Payment error."},
+      {"speaker": "agent", "text": "Retry now."},
+      {"speaker": "customer", "text": "Worked."}
+    ]
+  },
+
+  {
+    "id": 19,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "App freezes."},
+      {"speaker": "agent", "text": "Update soon."},
+      {"speaker": "customer", "text": "No change."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 20,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Notification missing."},
+      {"speaker": "agent", "text": "Enabled."},
+      {"speaker": "customer", "text": "Thanks."}
+    ]
+  },
+
+  {
+    "id": 21,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Support rude."},
+      {"speaker": "agent", "text": "Sorry."},
+      {"speaker": "customer", "text": "Not enough."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 22,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Video not loading."},
+      {"speaker": "agent", "text": "Clear cache."},
+      {"speaker": "customer", "text": "Works."}
+    ]
+  },
+
+  {
+    "id": 23,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Hidden charges."},
+      {"speaker": "agent", "text": "Explained."},
+      {"speaker": "customer", "text": "Not happy."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 24,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "OTP not received."},
+      {"speaker": "agent", "text": "Resent."},
+      {"speaker": "customer", "text": "Got it."}
+    ]
+  },
+
+  {
+    "id": 25,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Service outdated."},
+      {"speaker": "agent", "text": "Upgrade soon."},
+      {"speaker": "customer", "text": "Waiting too long."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 26,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Storage full."},
+      {"speaker": "agent", "text": "Cleared."},
+      {"speaker": "customer", "text": "Okay."}
+    ]
+  },
+
+  {
+    "id": 27,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "No features."},
+      {"speaker": "agent", "text": "Premium available."},
+      {"speaker": "customer", "text": "Not buying."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 28,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Download stuck."},
+      {"speaker": "agent", "text": "Restart."},
+      {"speaker": "customer", "text": "Done."}
+    ]
+  },
+
+  {
+    "id": 29,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Too many bugs."},
+      {"speaker": "agent", "text": "Fix coming."},
+      {"speaker": "customer", "text": "No trust."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 30,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Language issue."},
+      {"speaker": "agent", "text": "Changed."},
+      {"speaker": "customer", "text": "Good."}
+    ]
+  },
+
+  {
+    "id": 31,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Battery drain."},
+      {"speaker": "agent", "text": "Optimizing."},
+      {"speaker": "customer", "text": "Still bad."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 32,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Theme error."},
+      {"speaker": "agent", "text": "Reset."},
+      {"speaker": "customer", "text": "Works."}
+    ]
+  },
+
+  {
+    "id": 33,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Server down."},
+      {"speaker": "agent", "text": "Maintenance."},
+      {"speaker": "customer", "text": "Too frequent."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 34,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Map not loading."},
+      {"speaker": "agent", "text": "Updated."},
+      {"speaker": "customer", "text": "Fine."}
+    ]
+  },
+
+  {
+    "id": 35,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Poor quality."},
+      {"speaker": "agent", "text": "We improve."},
+      {"speaker": "customer", "text": "No result."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 36,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Search slow."},
+      {"speaker": "agent", "text": "Optimized."},
+      {"speaker": "customer", "text": "Fast now."}
+    ]
+  },
+
+  {
+    "id": 37,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "No backup."},
+      {"speaker": "agent", "text": "Coming soon."},
+      {"speaker": "customer", "text": "Too late."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 38,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Voice unclear."},
+      {"speaker": "agent", "text": "Fixed."},
+      {"speaker": "customer", "text": "Good."}
+    ]
+  },
+
+  {
+    "id": 39,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Delay in service."},
+      {"speaker": "agent", "text": "Sorry."},
+      {"speaker": "customer", "text": "Always delay."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 40,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Update failed."},
+      {"speaker": "agent", "text": "Manual update."},
+      {"speaker": "customer", "text": "Done."}
+    ]
+  },
+
+  {
+    "id": 41,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "App confusing."},
+      {"speaker": "agent", "text": "Tutorial."},
+      {"speaker": "customer", "text": "Still hard."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 42,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Font too small."},
+      {"speaker": "agent", "text": "Changed."},
+      {"speaker": "customer", "text": "Better."}
+    ]
+  },
+
+  {
+    "id": 43,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "No updates."},
+      {"speaker": "agent", "text": "Planned."},
+      {"speaker": "customer", "text": "Not trusting."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 44,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Crash on start."},
+      {"speaker": "agent", "text": "Patched."},
+      {"speaker": "customer", "text": "Works."}
+    ]
+  },
+
+  {
+    "id": 45,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Bad UI."},
+      {"speaker": "agent", "text": "Redesign soon."},
+      {"speaker": "customer", "text": "Waiting long."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 46,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Slow upload."},
+      {"speaker": "agent", "text": "Boosted."},
+      {"speaker": "customer", "text": "Fast."}
+    ]
+  },
+
+  {
+    "id": 47,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "Account hacked."},
+      {"speaker": "agent", "text": "Investigating."},
+      {"speaker": "customer", "text": "Too late."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 48,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Verification failed."},
+      {"speaker": "agent", "text": "Reverified."},
+      {"speaker": "customer", "text": "Success."}
+    ]
+  },
+
+  {
+    "id": 49,
+    "outcome": "cancellation",
+    "turns": [
+      {"speaker": "customer", "text": "No improvements."},
+      {"speaker": "agent", "text": "Working on it."},
+      {"speaker": "customer", "text": "No trust."},
+      {"speaker": "customer", "text": "Cancel."}
+    ]
+  },
+
+  {
+    "id": 50,
+    "outcome": "resolved",
+    "turns": [
+      {"speaker": "customer", "text": "Sync issue."},
+      {"speaker": "agent", "text": "Fixed."},
+      {"speaker": "customer", "text": "Thanks."}
+    ]
+  }
+]
